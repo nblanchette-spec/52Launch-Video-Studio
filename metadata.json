@@ -1,0 +1,8 @@
+{
+  "name": "Remix 52Launch Director OS",
+  "description": "End-to-end creative direction and pre-production studio for managing startup brand films, ingredient-consistent storyboarding, shot lists, and shoot schedules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
